@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Baluprasad-Tanikonda/E-commerce_site/static/css/main.141e53b1.css",
-    "main.js": "/Baluprasad-Tanikonda/E-commerce_site/static/js/main.82acfc24.js",
-    "static/media/account.png": "/Baluprasad-Tanikonda/E-commerce_site/static/media/account.152e4568193822add118.png",
-    "static/media/e_commercelogo.avif": "/Baluprasad-Tanikonda/E-commerce_site/static/media/e_commercelogo.c20443a2bf47c61ec635.avif",
-    "index.html": "/Baluprasad-Tanikonda/E-commerce_site/index.html",
-    "main.141e53b1.css.map": "/Baluprasad-Tanikonda/E-commerce_site/static/css/main.141e53b1.css.map",
-    "main.82acfc24.js.map": "/Baluprasad-Tanikonda/E-commerce_site/static/js/main.82acfc24.js.map"
+    "main.css": "/E-commerce_site/static/css/main.141e53b1.css",
+    "main.js": "/E-commerce_site/static/js/main.0f24c2d3.js",
+    "static/media/account.png": "/E-commerce_site/static/media/account.152e4568193822add118.png",
+    "static/media/e_commercelogo.avif": "/E-commerce_site/static/media/e_commercelogo.c20443a2bf47c61ec635.avif",
+    "index.html": "/E-commerce_site/index.html",
+    "main.141e53b1.css.map": "/E-commerce_site/static/css/main.141e53b1.css.map",
+    "main.0f24c2d3.js.map": "/E-commerce_site/static/js/main.0f24c2d3.js.map"
   },
   "entrypoints": [
     "static/css/main.141e53b1.css",
-    "static/js/main.82acfc24.js"
+    "static/js/main.0f24c2d3.js"
   ]
 }
